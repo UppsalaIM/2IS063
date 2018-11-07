@@ -1,6 +1,6 @@
 # 2IS063 Data Mining and Data Science, Lab Notebooks
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS063)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS063/master)
 
 This repository contains the lab notebooks for the 2IS063 Data Mining och Data Science course.
 
