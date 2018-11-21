@@ -22,7 +22,7 @@ test = {
         },
         {
           'code': r"""
-          >>> dataset_density == 0.02679
+          >>> dataset_density == 0.02609
           True
           """,
           'hidden': False,
