@@ -1,8 +1,8 @@
-# 2IS063 Data Mining and Data Science, Lab Notebooks
+# 2IS239 Data Analytics, Lab Notebooks
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS063/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS239/master)
 
-This repository contains the lab notebooks for the 2IS063 Data Mining och Data Science course.
+This repository contains the lab notebooks for the 2IS239 Data Analytics course.
 
 **Launch the notebooks on the cloud by clicking on the `launch binder` button above**.
 
